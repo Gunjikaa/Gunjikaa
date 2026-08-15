@@ -1,6 +1,6 @@
 ## Hi , I'm Gunjika 👋
 
-### Computer Science Engineering Student | DSA | Full-Stack Development
+### Computer Science Engineering Student 
 
 I'm a CSE student passionate about **problem solving, software development, and building things that solve real-world problems**.
 
