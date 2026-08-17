@@ -4,12 +4,12 @@
 
 I'm a CSE student passionate about **problem solving, software development, and building things that solve real-world problems**.
 
-* 🔭 Currently working on **Full-Stack Web Development**
-* 🌱 Improving my skills in **Data Structures & Algorithms**
+*  Currently working on **Full-Stack Web Development**
+*  Improving my skills in **Data Structures & Algorithms**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -35,22 +35,22 @@ I'm a CSE student passionate about **problem solving, software development, and 
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-* 🧩 Strengthening **DSA & problem-solving**
-* 🌐 Building **full-stack applications**
-* 🛠️ Working on projects that combine technology with real-world use cases
-
----
-
-
+*  Strengthening **DSA & problem-solving**
+*  Building **full-stack applications**
+*  Working on projects that combine technology with real-world use cases
 
 ---
 
-## 🤝 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/gunjika-adhikari-570a9b321/)
-* 🧑‍💻 GitHub: **[Gunjikaa](https://github.com/Gunjikaa)**
+
+---
+
+## Connect With Me
+
+*  LinkedIn: (https://www.linkedin.com/in/gunjika-adhikari-570a9b321/)
+*  GitHub: **[Gunjikaa](https://github.com/Gunjikaa)**
 
 
 </writing>
