@@ -51,6 +51,7 @@ I'm a CSE student passionate about **problem solving, software development, and 
 
 *  LinkedIn: (https://www.linkedin.com/in/gunjika-adhikari-570a9b321/)
 *  GitHub: **[Gunjikaa](https://github.com/Gunjikaa)**
+*  Email: **gunjika617@gmail.com**
 
 
 </writing>
