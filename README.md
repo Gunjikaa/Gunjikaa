@@ -1,9 +1,5 @@
 ## Hi , I'm Gunjika 👋
-
-### Computer Science Engineering Student 
-
-I'm a CSE student passionate about **problem solving, software development, and building things that solve real-world problems**.
-
+I'm a CSE student passionate about problem solving, software development, and building things that solve real-world problems.
 *  Currently working on **Full-Stack Web Development**
 *  Improving my skills in **Data Structures & Algorithms**
 
@@ -33,18 +29,8 @@ I'm a CSE student passionate about **problem solving, software development, and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
-
-##  What I'm Working On
-
-*  Strengthening **DSA & problem-solving**
-*  Building **full-stack applications**
-*  Working on projects that combine technology with real-world use cases
 
 ---
-
-
-
 ---
 
 ## Connect With Me
